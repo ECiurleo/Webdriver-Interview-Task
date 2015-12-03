@@ -1,7 +1,7 @@
 # Webdriver Interview Task
 A base Selenium WebDriver suite written in Java and TestNG
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ###Please Fork this project for submission
 
 ###Task
@@ -11,7 +11,8 @@ The aim of this task is as follows;
 2. Ensure tests are appropriate and valid
 
 The task is expected to be completed within an hour
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 ##Setup
 You need to make sure that iexplore.exe, chrome.exe and firefox.exe are in your %PATH%.
